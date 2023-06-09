@@ -1,6 +1,12 @@
 Registrasi
-
 http://localhost/ci3restapi/api/auth_controller/register
 Body->form-data->input field nama, email, password
 
+Login
+http://localhost/ci3restapi/api/auth_controller/login
+Body->form-data->input field nama, email, password
+
+Get Profile
+http://localhost/ci3restapi/api/auth_controller/getProfile
+masuk menggunakan Barier token
 
