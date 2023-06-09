@@ -1,0 +1,6 @@
+Registrasi
+
+http://localhost/ci3restapi/api/auth_controller/register
+Body->form-data->input field nama, email, password
+
+
